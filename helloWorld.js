@@ -2,5 +2,9 @@
 
 // console.log("Hello World");
 
-console.log("Git is Awesome!");
+// console.log("Git is Awesome!");
+
+let inputUser = prompt("Please enter your name: ");
+
+console.log(inputUser);
 
